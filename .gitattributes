@@ -1,5 +1,0 @@
-codigos filter=lfs diff=lfs merge=lfs -text
-Dashboard_clase filter=lfs diff=lfs merge=lfs -text
-Datos filter=lfs diff=lfs merge=lfs -text
-Reto_dashboard filter=lfs diff=lfs merge=lfs -text
-all-files.txt filter=lfs diff=lfs merge=lfs -text
